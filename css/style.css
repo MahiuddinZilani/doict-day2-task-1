@@ -1,0 +1,39 @@
+body {
+  background-color: #f1f1f1;
+  font-family: sans-serif;
+}
+main {
+  width: 35%;
+  margin: auto;
+}
+.top {
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  padding-top: 40%;
+  padding-bottom: 5%;
+  border-radius: 1% 1% 50% 50%;
+}
+.bottom {
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  font-size: 180%;
+  margin: 0;
+}
+h4 {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 400;
+}
+.text {
+  font-size: 14px;
+  font-weight: 300;
+  margin: 20px;
+}
+button {
+  background-color: black;
+  color: white;
+  padding: 15px 60px;
+}
